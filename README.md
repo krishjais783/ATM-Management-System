@@ -89,6 +89,9 @@ This project uses local files for persistent storage.
 > **Note:** These files are automatically created and updated by the program.
 
 > Account information is stored in binary format, while transaction history is stored in a readable text file.
+
+> The `accounts.txt` and `history.txt` files are included as empty placeholders. They will be populated automatically when the application is used.
+
 ---
 
 ## ▶️ How to Run
